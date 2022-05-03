@@ -1,7 +1,7 @@
 # NYC-taxi-trip-time-prediction
 The competition dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of this playground competition. Based on individual trip attributes, participants should predict the duration of each trip in the test set.
 
-Here is the presentation link: 
+Here is the presentation link: https://github.com/dharmesh-data/Capstone_NYC_Taxi_TRip/blob/7867efcd3338192802bcbd253b8e019780dcf062/NYC%20%20TAXI%20TRIP%20TIME%20DURATION%20-%20Dharmesh%20Patel.pptx
 
 # Data fields
 id - a unique identifier for each trip
