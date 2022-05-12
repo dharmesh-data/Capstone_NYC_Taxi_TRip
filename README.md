@@ -35,8 +35,6 @@ Gradient Boosting will be the best to predict the trip duration for a particular
 
 <p><b>1) requiremets.txt</b></p>
 Use this command to install library: pip install -r requirements.txt
-/n
-
 <p><b>2)Dc_NYC_Taxi_Trip_Time_Prediction_Capstone_Project.ipynb</b></p>
 After it run this file using jupyter notebook or google colaaboratery
 
