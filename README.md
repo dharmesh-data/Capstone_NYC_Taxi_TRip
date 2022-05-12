@@ -1,6 +1,8 @@
 <h1 align="center"> New York City Taxi Trip Time Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
+![image](https://camo.githubusercontent.com/f4b14c840fba3517a77fcc1ca2cb084771586a59d2593a11b8edd194a3d9e6dc/687474703a2f2f692e68756666706f73742e636f6d2f67656e2f333131383231382f696d616765732f6f2d4e45572d594f524b2d544158492d66616365626f6f6b2e6a7067)
+
 ## 📋 Summary 
 This project aims to predict New York city taxi trip times.
 
@@ -28,6 +30,20 @@ Gradient Boosting will be the best to predict the trip duration for a particular
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h2> :clipboard: Execution Instruction</h2>
+<p>The order of execution of the program files is as follows:</p>
+
+<p><b>1) requiremets.txt</b></p>
+Use this command to install library: pip install -r requirements.txt
+
+
+<p><b>2)Dc_NYC_Taxi_Trip_Time_Prediction_Capstone_Project.ipynb</b></p>
+After it run this file using jupyter notebook or google colaaboratery
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2 id="credits"> :scroll: Credits</h2>
 
 Dharmesh Patel | Avid Learner | Data Scientist | Machine Learning Enthusiast
@@ -40,4 +56,20 @@ Dharmesh Patel | Avid Learner | Data Scientist | Machine Learning Enthusiast
 [![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dp76070)
 [![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1EIOHkS5HxVinOJTSDEDtSDw9NDNfXGL4/view?usp=sharing)
 
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> :books: References</h2>
+<ul>
+  <li><p>Exploratory Data Analysis on NYC Taxi Trip Duration Dataset</p>
+      <p>Available: https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/</p>
+  </li>
+   <li><p>New York City Taxi Trip Duration</p>
+      <p>Available: https://www.kaggle.com/c/nyc-taxi-trip-duration/</p>
+  </li>
+</ul>
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
