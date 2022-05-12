@@ -1,7 +1,11 @@
 <h1 align="center"> New York City Taxi Trip Time Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ![image](https://camo.githubusercontent.com/f4b14c840fba3517a77fcc1ca2cb084771586a59d2593a11b8edd194a3d9e6dc/687474703a2f2f692e68756666706f73742e636f6d2f67656e2f333131383231382f696d616765732f6f2d4e45572d594f524b2d544158492d66616365626f6f6b2e6a7067)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📋 Summary 
 This project aims to predict New York city taxi trip times.
